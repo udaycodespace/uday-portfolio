@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     Welcome! This is an interactive portfolio. Explore by typing commands below or using the buttons on the right.<br>
     For a detailed view, download my <b>Resume</b> (choose domain via the terminal), check projects on <a href="https://github.com/udaycodespace" target="_blank">GitHub</a>, 
     connect on <a href="https://www.linkedin.com/in/somapuram-uday/" target="_blank">LinkedIn</a>, or drop a mail at 
-    <a href="mailto:udaysoampuram@gmail.com">udaysoampuram@gmail.com</a>.<br><br>
+    <a href="mailto:udaysomapuram@gmail.com">udaysomapuram@gmail.com</a>.<br><br>
     <b>💻 System Commands:</b><br>
     help - Show available commands<br>
     clear - Clear the terminal<br>
